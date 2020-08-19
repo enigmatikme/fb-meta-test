@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fb-meta-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fb-meta-test/static/js/main.4931fa6c.chunk.js",
+    "main.js.map": "/fb-meta-test/static/js/main.4931fa6c.chunk.js.map",
+    "runtime-main.js": "/fb-meta-test/static/js/runtime-main.dfc26d59.js",
+    "runtime-main.js.map": "/fb-meta-test/static/js/runtime-main.dfc26d59.js.map",
+    "static/js/2.c1e1a3f7.chunk.js": "/fb-meta-test/static/js/2.c1e1a3f7.chunk.js",
+    "static/js/2.c1e1a3f7.chunk.js.map": "/fb-meta-test/static/js/2.c1e1a3f7.chunk.js.map",
+    "index.html": "/fb-meta-test/index.html",
+    "precache-manifest.68c754c765a9a89c10555b4cc274ad91.js": "/fb-meta-test/precache-manifest.68c754c765a9a89c10555b4cc274ad91.js",
+    "service-worker.js": "/fb-meta-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fb-meta-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c1e1a3f7.chunk.js.LICENSE.txt": "/fb-meta-test/static/js/2.c1e1a3f7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fb-meta-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfc26d59.js",
+    "static/js/2.c1e1a3f7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4931fa6c.chunk.js"
+  ]
+}
