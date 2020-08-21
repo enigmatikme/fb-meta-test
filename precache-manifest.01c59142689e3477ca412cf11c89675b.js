@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1c936ff3893356916346483928a2dc8",
+    "revision": "2b21b74c4bee1f199e6a3395252ccaff",
     "url": "/fb-meta-test/index.html"
   },
   {
