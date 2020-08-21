@@ -5,20 +5,20 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <a
+        className=''
+        href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fenigmatikme.github.io%2Ffb-meta-test&amp;src=sdkpreparse"
+        rel='noopener noreferrer'
+        target='_blank'
+      >FB</a>
+
+      change 
+
+<div class="fb-share-button" data-href="https://enigmatikme.github.io/fb-meta-test" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fenigmatikme.github.io%2Ffb-meta-test&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+
+
+
+
     </div>
   );
 }
