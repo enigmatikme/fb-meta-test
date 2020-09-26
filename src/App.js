@@ -9,6 +9,7 @@ function App() {
 
       <Helmet>
       {/* <!-- HTML Meta Tags --> */}
+      <meta charSet="utf-8" />
 <title>Lyric Keeper</title>
 <meta name="description" content="A web & mobile app that allows you to easily keep track of all your lyrics!"/>
 
